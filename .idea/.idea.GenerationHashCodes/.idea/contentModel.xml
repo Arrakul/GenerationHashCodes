@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\user\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\user\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_GenerationHashCodes.1954936945.00" t="ExcludeRecursive" />
+    <e p="E:\Задания\program\С#\Work_Task\GenerationHashCodes" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="TestHashCode.cs" t="Include" />
+          <e p="Vectors" t="Include">
+            <e p="Vector2D.cs" t="Include" />
+            <e p="Vector3D.cs" t="Include" />
+            <e p="VectorInt2D.cs" t="Include" />
+            <e p="VectorInt3D.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="GenerationHashCodes.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
